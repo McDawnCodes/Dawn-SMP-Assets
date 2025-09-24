@@ -1,0 +1,17 @@
+## 📄 License & Redistribution Notice
+
+This project is a **Minecraft modpack** and includes third-party mods created and owned by their respective developers.
+
+**I do not claim ownership of any code, assets, or intellectual property contained within the `mods/`, `config/`, or related folders.** All rights belong to their respective authors.
+
+This repository is provided for **educational and private use** only. Any redistribution, rehosting, or repackaging of the mods included here must comply with:
+
+- The **individual licenses** of each mod
+- The **Minecraft End User License Agreement (EULA)**: https://www.minecraft.net/en-us/eula
+- The **Minecraft Commercial Usage Guidelines**: https://www.minecraft.net/en-us/usage-guidelines
+
+**Mojang Studios (a subsidiary of Microsoft) retains all rights to the Minecraft game and its related assets.**
+
+If you are a mod author and wish for your mod to be removed from this repository, please [open an issue](https://github.com/yourusername/your-repo-name/issues) and it will be taken down promptly.
+
+---
