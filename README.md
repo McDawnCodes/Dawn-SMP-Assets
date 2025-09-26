@@ -1,6 +1,6 @@
-# 🛠️ DonSMP Modpack - Modpack Mods Repository
+7# 🛠️ DonSMP Modpack - A Complete Mods Repository for the DonSMP
 
-<img width="1536" height="1024" alt="ChatGPT Image Sep 25, 2025, 10_33_12 PM" src="https://github.com/user-attachments/assets/bd2e5ff1-ad0a-4f0b-9faf-2f7dd1e2de04" />
+<img width="1536" height="1024" alt="don banner Sep 25, 2025, 10_33_12 PM" src="https://github.com/user-attachments/assets/bd2e5ff1-ad0a-4f0b-9faf-2f7dd1e2de04" />
 
 Welcome to the official repository for the DonSMP Minecraft modpack!  
 This repo contains all the mods and configuration files used in the modpack.
