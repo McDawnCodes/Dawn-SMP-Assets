@@ -1,5 +1,6 @@
-# 🛠️ Dawn SMP Modpack - Modpack Mods Repository
-<img width="1536" height="1024" alt="ChatGPT Image Sep 25, 2025, 08_03_16 PM" src="https://github.com/user-attachments/assets/91ca4960-00bf-4332-9297-baf1ca0357cf" />
+# 🛠️ DonSMP Modpack - Modpack Mods Repository
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 25, 2025, 10_33_12 PM" src="https://github.com/user-attachments/assets/bd2e5ff1-ad0a-4f0b-9faf-2f7dd1e2de04" />
 
 Welcome to the official repository for the DawnSMP Minecraft modpack!  
 This repo contains all the mods and configuration files used in the modpack.
