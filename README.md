@@ -1,4 +1,4 @@
-7# 🛠️ DonSMP Modpack - A Complete Mods Repository for the DonSMP
+# 🛠️ DonSMP Modpack - A Complete Mods Repository for the DonSMP
 
 <img width="1536" height="1024" alt="don banner Sep 25, 2025, 10_33_12 PM" src="https://github.com/user-attachments/assets/bd2e5ff1-ad0a-4f0b-9faf-2f7dd1e2de04" />
 
